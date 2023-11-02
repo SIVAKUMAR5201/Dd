@@ -46,7 +46,7 @@ Before running the code, ensure you have the following installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/sYokesh2004/Project-7-Earthquake-Prediction-Model-using-Python.git
+   git clone htt ps://github.com/SIVAKUMAR5201/project-7Earthquake-Prediction-model-Using-Python.git
    ```
 
 2. Navigate to the project directory:
